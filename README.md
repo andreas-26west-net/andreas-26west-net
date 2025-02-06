@@ -1,1 +1,2 @@
-This my REDME file on GitHub
+This my README file on GitHub.
+There will be more to come, I promise!
